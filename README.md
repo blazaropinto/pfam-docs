@@ -2,10 +2,9 @@
 Pfam documentation for users
 ############################
 
-|docs|
+This repository is the source of `Pfam documentation <https://pfam-docs.readthedocs.io/en/latest/>`_  hosted on Read The Docs.
 
-This repository is the source of Pfam documentation hosted on Read The Docs.
-
+************
 Installation
 ************
 
@@ -25,6 +24,7 @@ Installation
   # view documentation at
   http://localhost:8000/
 
+*******
 Contact
 *******
 
