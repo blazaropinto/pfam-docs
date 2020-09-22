@@ -611,7 +611,7 @@ A wide range of different lollipop styles can be create by combining different l
 Tooltips
 ========
 
-If appropriate metadata are present in the sequence description, the domain graphics library can also add tooltips to the image. The example below is a shows a domain graphic and its description includes the necessary metadata for generating tooltips.
+If appropriate metadata are present in the sequence description, the domain graphics library can also add tooltips to the image. The example below shows a domain graphic and its description includes the necessary metadata for generating tooltips.
 
 .. figure:: images/tooltip.png
     :width: 500
