@@ -18,9 +18,11 @@ Installation
   source ./venv/bin/activate
   pip install -r requirements.txt
   # build the docs (this will have to be repeated on every edit)
-  sphinx-build docs build
+  cd docs
+  sphinx-build source build
   # or for a dynamic auto reloading
-  sphinx-autobuild docs build
+  cd docs
+  sphinx-autobuild source build
   # view documentation at
   http://localhost:8000/
 
