@@ -32,14 +32,14 @@ As for Pfam family pages, you can refer to protein sequence pages by accession, 
 Here are some examples of linking to protein sequence pages at EBI:
 
 Directly:
-    `/protein/P15498 <http://pfam.xfam.org/protein/P15498>`_ or\n
+    `/protein/P15498 <http://pfam.xfam.org/protein/P15498>`_ or
     `/protein/VAV_HUMAN <http://pfam.xfam.org/protein/VAV_HUMAN>`_
 By accession:
     `/protein?acc=P15498 <http://pfam.xfam.org/protein?acc=P15498>`_
 By ID:
     `/protein?id=VAV_HUMAN <http://pfam.xfam.org/protein?id=VAV_HUMAN>`_
 Using "entry":
-    `/protein?entry=P15498 <http://pfam.xfam.org/protein?entry=P15498>`_ or\n
+    `/protein?entry=P15498 <http://pfam.xfam.org/protein?entry=P15498>`_ or
     `/protein?entry=VAV_HUMAN <http://pfam.xfam.org/protein?entry=VAV_HUMAN>`_ 
 
 Linking to the "jump to" search
