@@ -118,11 +118,11 @@ Pfam ID/accession conversion
 
 This is a simple service to return the accession and ID for a Pfam family, given either the ID or accession as input. Any of the following URLs will return the same simple XML document:
 
-  /family/acc?id=Piwi&output=xml
-  /family/Piwi/acc?output=xml
-  /family/id?output=xml&acc=PF02171
-  /family/Piwi/id?output=xml
-  /family?entry=Piwi&output=xml
+  * /family/acc?id=Piwi&output=xml
+  * /family/Piwi/acc?output=xml
+  * /family/id?output=xml&acc=PF02171
+  * /family/Piwi/id?output=xml
+  * /family?entry=Piwi&output=xml
 
 .. code-block:: bash
 
@@ -155,10 +155,10 @@ Pfam-A annotations
 
 You can retrieve a sub-set of the data in a Pfam-A family page as an XML document using any of the following styles of URL:
 
-  /family?id=Piwi&output=xml
-  /family?output=xml&acc=PF02171
-  /family?entry=Piwi&output=xml
-  /family/Piwi?output=xml
+  * /family?id=Piwi&output=xml
+  * /family?output=xml&acc=PF02171
+  * /family?entry=Piwi&output=xml
+  * /family/Piwi?output=xml
 
 The last two styles, using the entry parameter or an extended URL, accept either accessions or identifiers. The accession/ID is case-insensitive in all cases. 
 
@@ -294,10 +294,10 @@ Protein sequence data
 
 You can retrieve a sub-set of the data in a protein page as an XML document using any of the following styles of URL:
 
-  /protein?id=CANX_CHICK&output=xml
-  /protein?output=xml&acc=P00789
-  /protein?entry=P00789&output=xml
-  /protein/P00789?output=xml
+  * /protein?id=CANX_CHICK&output=xml
+  * /protein?output=xml&acc=P00789
+  * /protein?entry=P00789&output=xml
+  * /protein/P00789?output=xml
 
 As for Pfam-A families, arguments are all case-insensitive and the entry parameter accepts either ID or accession.  
 
@@ -370,7 +370,6 @@ It is usually most convenient to save your sequence into a plain text file, some
 
 .. code-block:: bash
 
-  cat test.seq
   MMASTENNEKDNFMRDTASRSKKSRRRSLWIAAGAVPTAIALSLSLASPA
   AVAQSSFGSSDIIDSGVLDSITRGLTDYLTPRDEALPAGEVTYPAIEGLP
   AGVRVNSAEYVTSHHVVLSIQSAAMPERPIKVQLLLPRDWYSSPDRDFPE
@@ -496,5 +495,5 @@ When you run a sequence search via the browser, the results page includes a Pfam
 
   /search/sequence/graphic/adabec68-703f-48c4-bec7-07f1ab965fbb
 
-Check the `domain graphics documentation <http://pfam.xfam.org/help#tabview=tab9>`_ for details on how you can use the JSON string locally. 
+Check the :ref:`guide-to-graphics` for details on how you can use the JSON string locally. 
 
