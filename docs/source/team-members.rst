@@ -38,7 +38,7 @@ NCBI, USA
 ---------
 
     * Lakshminarayan Iyer
-    * L. Aravind
+    * L\. Aravind
     * Zhang Dapeng
     * Vivek Anantharaman
 
@@ -66,7 +66,7 @@ Previous contributors
     * Kyle Ellrott
     * Matthew Fenech
     * Kristoffer Forslund
-    * O. Luke Gavin
+    * O\. Luke Gavin
     * Prasad Gunasekaran
     * Sam Griffiths-Jones
     * Kevin Howe
