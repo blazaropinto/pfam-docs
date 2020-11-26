@@ -7,6 +7,8 @@ Citing Pfam
 Pfam References
 ===============
 
+`Pfam: The protein families database in 2021 <https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa913/5943818?guestAccessKey=18212916-1e97-4c18-8f4d-b0ba26beeaa8>`_  J. Mistry, S. Chuguransky, L. Williams, M. Qureshi, G.A. Salazar, E.L.L. Sonnhammer, S.C.E. Tosatto, L. Paladin, S. Raj, L.J. Richardson, R.D. Finn, A. Bateman *Nucleic Acids Research* (2020) doi: 10.1093/nar/gkaa913
+
 `The Pfam protein families database in 2019 <https://doi.org/10.1093/nar/gky995>`_: S. El-Gebali, J. Mistry, A. Bateman, S.R. Eddy, A. Luciani, S.C. Potter, M. Qureshi, L.J. Richardson, G.A. Salazar, A. Smart, E.L.L. Sonnhammer, L. Hirsh, L. Paladin, D. Piovesan, S.C.E. Tosatto, R.D. Finn *Nucleic Acids Research* (2019) doi: 10.1093/nar/gky995
 
 `The Pfam protein families database: towards a more sustainable future <https://nar.oxfordjournals.org/content/44/D1/D279.long>`_: R.D. Finn, P. Coggill, R.Y. Eberhardt, S.R. Eddy, J. Mistry, A.L. Mitchell, S.C. Potter, M. Punta, M. Qureshi, A. Sangrador-Vegas, G.A. Salazar, J. Tate, A. Bateman *Nucleic Acids Research* (2016)  Database Issue 44:D279-D285
@@ -38,18 +40,17 @@ Pfam References
 Book Chapters on Pfam
 =====================
 
-Homology-Based Annotation of Large Protein Datasets M. Punta, J. Mistry
-*Data Mining Techniques for the Life Sciences. Methods in Molecular Biology*, vol 1415 doi: 10.1007/978-1-4939-3572-7_8  
+`Homology-Based Annotation of Large Protein Datasets <https://doi.org/10.1007/978-1-4939-3572-7_8>`_ M. Punta, J. Mistry
+*Data Mining Techniques for the Life Sciences. Methods in Molecular Biology* vol 1415 (2016) doi: 10.1007/978-1-4939-3572-7_8
 
-Identifying Protein Domains with the Pfam Database P. Coggill, R.D. Finn, A. Bateman 
-*Current protocols in bioinformatics*  Chapter 2, Unit 2.5 (2008) doi: 10.1002/0471250953.bi0205s23
+`Identifying Protein Domains with the Pfam Database <https://doi.org/10.1002/0471250953.bi0205s23>`_ P. Coggill, R.D. Finn, A. Bateman
+*Current Protocols in Bioinformatics* Chapter 2, Unit 2.5 (2008) doi: 10.1002/0471250953.bi0205s23
 
-Pfam: the protein families database* R.D. Finn (eds M.J. Dunn, L.B. Jorde, P.F.R. Little, S. Subramaniam) 
-*Genetics, Genomics, Proteomics and Bioinformaticsi*, Section 6: Protein Families  (2005) doi: 10.1002/047001153X.g306303
+`Pfam: a domain-centric method for analysing proteins and proteomes <https://doi.org/10.1007/978-1-59745-515-2_4>`_ J. Mistry and R.D. Finn
+*Comparative Genomics. Methods in Molecular Biology* vol 396 (2007) doi: 10.1007/978-1-59745-515-2_4
 
-Identifying protein domains with the Pfam database R.D. Finn, A. Bateman and S. Griffiths-Jones 
-*Current protocols in bioinformatics* doi: 10.1002/0471250953.bi0205s01 
+`Pfam: the protein families database <https://doi.org/10.1002/047001153X.g306303>`_ R.D. Finn (eds M.J. Dunn, L.B. Jorde, P.F.R. Little, S. Subramaniam)
+*Genetics, Genomics, Proteomics and Bioinformatics*, Section 6: Protein Families (2005) doi: 10.1002/047001153X.g306303
 
-Pfam: a domain-centric method for analysing proteins and proteomes J. Mistry and R.D. Finn 
-*Methods in Molecular Biology - Comparative Genomics* doi: 10.1007/978-1-59745-515-2_4 
-
+`Identifying protein domains with the Pfam database <https://doi.org/10.1002/0471250953.bi0205s01>`_ R.D. Finn, A. Bateman and S. Griffiths-Jones
+*Current Protocols in Bioinformatics* (2003) doi: 10.1002/0471250953.bi0205s01
