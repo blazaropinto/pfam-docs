@@ -4,7 +4,7 @@
 FTP Site
 ********
 
-The Pfam `FTP site <ftp://ftp.ebi.ac.uk/pub/databases/Pfam>`_ is organised into the following structure: 
+The Pfam `FTP site <http://ftp.ebi.ac.uk/pub/databases/Pfam>`_ is organised into the following structure: 
 
 .. figure:: images/ftp-structure.png
     :width: 200
