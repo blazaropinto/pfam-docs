@@ -13,7 +13,7 @@ European Bioinformatics Institute (EMBL-EBI), UK
 ------------------------------------------------
 
     * Alex Bateman - Pfam team leader and head of Protein Sequence resources at EMBL-EBI
-    * Sarah Chuguransky - Curator
+    * Sara Chuguransky - Curator
     * Tiago Grego - Developer
     * Beatriz Lazaro Pinto - Curator
     * Gustavo Salazar - Web developer
