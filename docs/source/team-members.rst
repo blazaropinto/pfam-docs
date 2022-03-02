@@ -13,10 +13,9 @@ European Bioinformatics Institute (EMBL-EBI), UK
 ------------------------------------------------
 
     * Alex Bateman - Pfam team leader and head of Protein Sequence resources at EMBL-EBI
-    * Lowri Williams - Curator
     * Sarah Chuguransky - Curator
-    * Jaina Mistry - Developer
-    * Matloob Qureshi - Web developer, Lead
+    * Tiago Grego - Developer
+    * Beatriz Lazaro Pinto - Curator
     * Gustavo Salazar - Web developer
 
 Harvard University, USA
@@ -77,18 +76,21 @@ Previous contributors
     * Mhairi Marshall
     * Nina Mian
     * William Mifsud
+    * Jaina Mistry
     * Simon Moxon
     * Simon Potter
     * Joanne Pollington
     * Marco Punta
+    * Matloob Qureshi
     * Lorna Richardson
     * Stephen-John Sammut
     * Benjamin Schuster-Böckler
     * David Studholme
     * John Tate
     * Benjamin Vella-Briffa
-    * Corin Yeats
+    * Lowri Williams
     * Arthur Wuster
+    * Corin Yeats
 
 Pfam is a collaborative venture and we hope to be able to interact with as many people as possible, in order to provide a quality database. Please get in touch with any one of us for more information about Pfam. You can email Pfam at pfam-help@ebi.ac.uk.
 
