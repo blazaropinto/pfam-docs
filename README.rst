@@ -18,10 +18,8 @@ Installation
   source ./venv/bin/activate
   pip install -r requirements.txt
   # build the docs (this will have to be repeated on every edit)
-  cd docs
   sphinx-build source build
   # or for a dynamic auto reloading
-  cd docs
   sphinx-autobuild source build
   # view documentation at
   http://localhost:8000/
@@ -30,4 +28,4 @@ Installation
 Contact
 *******
 
-If you have any questions or feedback, email us at pfam-help@ebi.ac.uk.
+If you have any questions or feedback, contact us through the `Pfam helpdesk <https://www.ebi.ac.uk/support/interpro>`_.
